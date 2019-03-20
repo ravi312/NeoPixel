@@ -1,1 +1,1 @@
-# NeoPixel
+# NeoPixel Snake
